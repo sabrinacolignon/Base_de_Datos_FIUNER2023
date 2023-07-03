@@ -1,0 +1,12 @@
+Este comprimido trae los comandos para crear y poblar la DB de ventas a utilizar en los TP de DB.
+
+Contiene los archivos:
+0- INSTRUCCIONES.txt: Estas instrucciones
+1- Tablas Ventas.SQL: Comandos para crear las tablas.
+2- Indices Tablas Ventas.SQL: Comandos para agregar índices de búsqueda a las tablas.
+3- Constraints Tablas Ventas.SQL: Comandos para agregar restricciones a las tablas.
+4- Datos Ventas.SQL: Instrucciones para poblar con datos las tablas creadas.
+
+Ejecutar estos archivos en postgress en el orden correcto. (1, 2, 3 y 4)
+
+
